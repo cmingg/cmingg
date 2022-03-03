@@ -16,7 +16,7 @@
 <br><br>
   
 <h5>🐟 Me 🐟<h5>
-<a href="https://www.instagram.com/cmingg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/cmingg/"/></a>
+<a href="https://www.instagram.com/cmingg_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/cmingg_/"/></a>
 <a href="mailto:ald2395@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=ald2395@naver.com"/></a>
 
 
