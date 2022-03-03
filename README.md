@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=👋I'm%20MinKyun🤗&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=👋I'm%20MinKyung🤗&fontSize=30)
 
 <h5>🛠️ Tech Stack 🛠️</h5>
 <a href="#none"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
